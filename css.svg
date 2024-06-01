@@ -1,0 +1,12 @@
+
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+                .dark,.light { display: none; }
+                html[data-color-mode="dark"] .dark { display: block }
+                html[data-color-mode="light"] .light { display: block }
+			</style>
+		</div>
+	</foreignObject>
+</svg>
